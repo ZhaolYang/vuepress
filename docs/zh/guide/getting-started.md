@@ -37,7 +37,7 @@ mkdir docs
 echo "# Hello VuePress!" > docs/README.md
 
 # 开始写作
-npm vuepress dev docs
+npx vuepress dev docs
 ```
 
 ::: warning
